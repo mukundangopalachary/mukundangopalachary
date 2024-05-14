@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books and playing football!.
 - 🌱 I’m currently learning Machine Learning and AI.
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 Contact me through [Linkedin](www.linkedin.com/in/mukundan-gopalachary-997075283)
+- 📫 Contact me through [Linkedin](https://www.linkedin.com/in/mukundan-gopalachary-997075283/)
 
 
 <!---
