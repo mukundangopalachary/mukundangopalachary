@@ -1,11 +1,29 @@
-- 👋 Hi, I’m Mukundan Gopalachary,18 years old.
-- 👀 I’m interested in reading books and playing football!.
-- 🌱 I’m currently learning Machine Learning and AI.
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 Contact me through [Linkedin](https://www.linkedin.com/in/mukundan-gopalachary-997075283/)
+# Mukundan Gopalachary
+
+## About Me
+
+Hello! I'm Mukundan Gopalachary, a passionate and dedicated professional with a strong background in Data Analysis and Machine Learning.
+My journey has been driven by a relentless pursuit of knowledge and a commitment to excellence in every endeavor I undertake.
 
 
-<!---
-mukundangopalachary/mukundangopalachary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+
+- The Psbb Millennium School
+  - Grade 1 to 10
+- St.Brittos Academy
+  - Grade 11 & 12
+- SRM Institute of Science and Technology, Ramapuram
+  - B.Tech Computer Science And Engineering, Batch 2023 - 2027
+  
+## Skills
+
+- **Programming Languages Known**: Python, C, C++, Sql, Java
+
+- **Python Libraries Known**:
+  - **Data Analysis**: matplotlib, seaborn, plotly, pandas, numpy
+  - **Machine Learning**: Scikit-Learn, Tensorflow
+ 
+## Contact
+
+- **Email**: mukundangopalachary@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/mukundan-gopalachary-997075283/
