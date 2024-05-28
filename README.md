@@ -22,6 +22,8 @@ My journey has been driven by a relentless pursuit of knowledge and a commitment
 - **Python Libraries Known**:
   - **Data Analysis**: matplotlib, seaborn, plotly, pandas, numpy
   - **Machine Learning**: Scikit-Learn, Tensorflow
+    
+- **Git**
  
 ## Contact
 
