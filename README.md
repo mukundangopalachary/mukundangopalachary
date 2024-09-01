@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Mukundan Gopalachary, a passionate and dedicated professional with a strong background in Data Analysis and Machine Learning.
+Hello! I'm Mukundan Gopalachary, a passionate and dedicated professional with a strong background in data analysis and machine learning.
 My journey has been driven by a relentless pursuit of knowledge and a commitment to excellence in every endeavor I undertake.
 
 
@@ -17,14 +17,19 @@ My journey has been driven by a relentless pursuit of knowledge and a commitment
   
 ## Skills
 
-- **Programming Languages Known**: Python, C, C++, Sql, Java
+- **Programming Languages Known**: Python, C, C++, Java
+
+- **Front-end**: HTML, CSS, JS, React.js (only basics to build very simple web applications)
 
 - **Python Libraries Known**:
   - **Data Analysis**: matplotlib, seaborn, plotly, pandas, numpy
-  - **Machine Learning**: Scikit-Learn, Tensorflow
+  - **Machine Learning**: Scikit-Learn, Pytorch, OpenCV
+
+- **Backend**: FastAPI
+- **Database**: MySQL
     
 - **Git**
- 
+
 ## Contact
 
 - **Email**: mukundangopalachary@gmail.com
