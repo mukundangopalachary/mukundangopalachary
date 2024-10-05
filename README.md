@@ -1,36 +1,26 @@
-# Mukundan Gopalachary
+<h1 align="center">Hi 👋, I'm Mukundan Gopalachary</h1>
+<h3 align="center">A passionate and dedicated professional with a strong background in data analysis and machine learning. My journey has been driven by a relentless pursuit of knowledge and a commitment to excellence in every endeavor I undertake.</h3>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukundangopalachary" alt="mukundangopalachary" /></a> </p>
 
-Hello! I'm Mukundan Gopalachary, a passionate and dedicated professional with a strong background in data analysis and machine learning.
-My journey has been driven by a relentless pursuit of knowledge and a commitment to excellence in every endeavor I undertake.
+- 🌱 I’m currently learning **FastAPI**
 
+- 👨‍💻 All of my projects are available at [https://github.com/mukundangopalachary?tab=repositories](https://github.com/mukundangopalachary?tab=repositories)
 
-## Education
+- 💬 Ask me about **Machine Learning and Deep Learning**
 
-- The Psbb Millennium School
-  - Grade 1 to 10
-- St.Brittos Academy
-  - Grade 11 & 12
-- SRM Institute of Science and Technology, Ramapuram
-  - B.Tech Computer Science And Engineering, Batch 2023 - 2027
-  
-## Skills
+- 📫 How to reach me **mukundangopalachary@gmail.com**
 
-- **Programming Languages Known**: Python, C, C++, Java
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mukundan gopalachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundan gopalachary" height="30" width="40" /></a>
+<a href="https://instagram.com/mukundanig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukundanig" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mukundangopalachary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukundangopalachary" height="30" width="40" /></a>
+</p>
 
-- **Front-end**: HTML, CSS, JS, React.js (only basics to build very simple web applications)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-- **Python Libraries Known**:
-  - **Data Analysis**: matplotlib, seaborn, plotly, pandas, numpy
-  - **Machine Learning**: Scikit-Learn, Pytorch, OpenCV
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundangopalachary&show_icons=true&locale=en&layout=compact" alt="mukundangopalachary" /></p>
 
-- **Backend**: FastAPI
-- **Database**: MySQL
-    
-- **Git**
-
-## Contact
-
-- **Email**: mukundangopalachary@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/mukundan-gopalachary-997075283/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundangopalachary&show_icons=true&locale=en" alt="mukundangopalachary" /></p>
