@@ -22,8 +22,9 @@ I’m a Computer Science Engineering student focused on building scalable backen
 
 ![trophy](https://github-trophies.vercel.app/?username=mukundangopalachary)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mukundangopalachary&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mukundangopalachary&icon=0&color=6)](https://visitcount.itsvg.in)
+-->
